@@ -1,17 +1,7 @@
-.content {
-  margin: 10px auto;
-  padding: 2rem;
-  width: 400px;
-  height: 500px;
-  background-color: rgb(190, 253, 165);
-  border-radius: 0.5rem;
-  font-family: monospace;
-  text-align: center;
+.tableContainer {
+  margin-top: 100px;
   display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-
-.label {
-  font-size: 2rem;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
 }
