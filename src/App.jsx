@@ -48,7 +48,7 @@ export const App = () => {
   }, [subscriptions]);
 
   return (
-    <div className={styles.table}>
+    <div className={styles.tableContainer}>
       <Table data={rates} />
     </div>
   );
