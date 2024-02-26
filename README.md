@@ -1,4 +1,4 @@
-# cupcake-frontend-client-test-task
+# currency-pair-long-polling-client-test
 ## Проект для отображения значения валютных пар из трех разных источников
 
 ![image_2023-01-26_15-40-22](https://user-images.githubusercontent.com/101048709/214846159-2d0441cd-0d29-4336-93d0-e7c7a2a696e2.png)
